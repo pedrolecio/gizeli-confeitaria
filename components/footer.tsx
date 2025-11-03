@@ -12,7 +12,7 @@ export function Footer() {
             <h3 className="font-[family-name:var(--font-playfair)] text-2xl font-semibold mb-2 text-primary">
               Gizeli Alves Confeitaria
             </h3>
-            <p className="text-muted-foreground italic">"Bolos e Doces."</p>
+            <p className="text-muted-foreground">Bolos e Doces.</p>
           </div>
 
           {/* Copyright */}
