@@ -2,7 +2,7 @@ import { ContactButton } from "@/components/contact-button"
 
 const galleryItems = [
   {
-    title: "Bolo de Aniversário",
+    title: "Bolos de Aniversário",
     image: "/images/bolo-aniversario.jpg",
   },
   {
