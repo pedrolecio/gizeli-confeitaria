@@ -42,7 +42,7 @@ export function Header() {
             </div>
             <div>
               <h1 className="font-[family-name:var(--font-playfair)] text-xl md:text-2xl font-bold text-primary">
-                Gizeli Alves
+                Gizeli Alves - Bolos e Doces
               </h1>
               <p className="text-xs text-muted-foreground hidden sm:block">Confeitaria Artesanal</p>
             </div>

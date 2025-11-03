@@ -12,39 +12,7 @@ export function Footer() {
             <h3 className="font-[family-name:var(--font-playfair)] text-2xl font-semibold mb-2 text-primary">
               Gizeli Alves Confeitaria
             </h3>
-            <p className="text-muted-foreground italic">"Doces momentos merecem sofisticação."</p>
-          </div>
-
-          {/* Social Links */}
-          <div className="flex justify-center gap-6 mb-8">
-            <button
-              onClick={() => window.open("https://wa.me/message/XQN3JJAGEPWNB1", "_blank")}
-              className="text-muted-foreground hover:text-accent transition-colors"
-              aria-label="WhatsApp"
-            >
-              <MessageCircle className="w-6 h-6" />
-            </button>
-            <button
-              onClick={() => window.open("https://www.instagram.com/gizelialvesconfeitaria", "_blank")}
-              className="text-muted-foreground hover:text-accent transition-colors"
-              aria-label="Instagram"
-            >
-              <Instagram className="w-6 h-6" />
-            </button>
-            <button
-              onClick={() => window.open("https://www.facebook.com/gizelialvesconfeitaria", "_blank")}
-              className="text-muted-foreground hover:text-accent transition-colors"
-              aria-label="Facebook"
-            >
-              <Facebook className="w-6 h-6" />
-            </button>
-            <button
-              onClick={() => window.open("mailto:contato@gizeli.com")}
-              className="text-muted-foreground hover:text-accent transition-colors"
-              aria-label="E-mail"
-            >
-              <Mail className="w-6 h-6" />
-            </button>
+            <p className="text-muted-foreground italic">"Bolos e Doces."</p>
           </div>
 
           {/* Copyright */}

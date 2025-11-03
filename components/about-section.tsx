@@ -20,7 +20,7 @@ export function AboutSection() {
           <div className="order-1 md:order-2">
             <p className="text-sm mb-4 tracking-wider uppercase text-primary">Sobre Gizeli Alves</p>
             <h2 className="font-[family-name:var(--font-playfair)] text-3xl md:text-5xl font-bold text-foreground mb-6 text-balance">
-              Técnica, sensibilidade e ingredientes selecionados
+              Conheça a Confeiteira
             </h2>
             <div className="space-y-4 text-foreground/80 leading-relaxed">
               

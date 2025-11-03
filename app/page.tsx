@@ -14,9 +14,9 @@ export default function Home() {
       <Header />
       <HeroSection />
       <DecorativeDivider />
-      <AboutSection />
-      <DecorativeDivider />
       <SpecialtiesSection />
+      <DecorativeDivider />
+      <AboutSection />
       <DecorativeDivider />
       <TestimonialsSection />
       <DecorativeDivider />

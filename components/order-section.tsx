@@ -2,7 +2,7 @@
 
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
-import { MessageCircle, Phone, Mail } from "lucide-react"
+import { MessageCircle, Instagram } from "lucide-react"
 
 export function OrderSection() {
   return (
@@ -18,7 +18,7 @@ export function OrderSection() {
 
           <Card className="border-2 border-accent/20">
             <CardContent className="p-8 md:p-12 md:py-0">
-              <div className="grid md:grid-cols-3 gap-6 mb-8">
+              <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="flex flex-col items-center gap-3">
                   <div className="w-14 h-14 rounded-full bg-accent/10 flex items-center justify-center">
                     <MessageCircle className="w-7 h-7 text-accent" />
@@ -28,17 +28,10 @@ export function OrderSection() {
                 </div>
                 <div className="flex flex-col items-center gap-3">
                   <div className="w-14 h-14 rounded-full bg-accent/10 flex items-center justify-center">
-                    <Phone className="w-7 h-7 text-accent" />
+                    <Instagram className="w-7 h-7 text-accent" />
                   </div>
-                  <p className="text-sm text-muted-foreground">Telefone</p>
-                  <p className="font-semibold text-foreground">(31) 98829-6442</p>
-                </div>
-                <div className="flex flex-col items-center gap-3">
-                  <div className="w-14 h-14 rounded-full bg-accent/10 flex items-center justify-center">
-                    <Mail className="w-7 h-7 text-accent" />
-                  </div>
-                  <p className="text-sm text-muted-foreground">E-mail</p>
-                  <p className="font-semibold text-foreground">gizeli.faria@hotmail.com</p>
+                  <p className="text-sm text-muted-foreground">Instagram</p>
+                  <p className="font-semibold text-foreground">@gizelialvesconfeitaria</p>
                 </div>
               </div>
 

@@ -9,13 +9,13 @@ const galleryItems = [
     title: "Doces Finos",
     image: "/images/brigadeiros-gourmet.jpg",
   },
+    {
+    title: "Doces Tradicionais",
+    image: "/images/brigadeiros-decorados.jpg",
+  },
   {
     title: "Cupcakes",
     image: "/images/cupcakes.jpg",
-  },
-  {
-    title: "Doces Tradicionais",
-    image: "/images/brigadeiros-decorados.jpg",
   },
   {
     title: "Bem Casado e Brownies",
