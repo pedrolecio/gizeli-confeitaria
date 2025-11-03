@@ -21,6 +21,10 @@ const galleryItems = [
     title: "Bem Casado e Brownies",
     image: "/images/brownies.jpg",
   },
+  {
+    title: "Copinho de Chocolate",
+    image: "/images/copinho.jpg",
+  },
 ]
 
 export function SpecialtiesSection() {
@@ -30,7 +34,7 @@ export function SpecialtiesSection() {
         <div className="text-center mb-12">
           <p className="text-sm mb-4 tracking-wider uppercase text-primary">O que fazemos</p>
           <h2 className="font-[family-name:var(--font-playfair)] text-3xl md:text-5xl font-bold text-foreground mb-4">
-            Nossas Especialidades
+            Galeria de Produtos
           </h2>
         </div>
 
