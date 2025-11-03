@@ -8,32 +8,27 @@ const faqs = [
   {
     question: "Com quanto tempo de antecedência preciso fazer meu pedido?",
     answer:
-      "Recomendamos fazer o pedido com pelo menos 7 dias de antecedência para bolos personalizados e de casamento. Para pedidos menores como cupcakes e brownies, 3 dias de antecedência são suficientes.",
+      "Recomendo que os pedidos sejam feitos com o mínimo de 3 dias úteis de antecedência. Para eventos maiores, pelo menos 15 dias, para garantir disponibilidade e planejamento.",
   },
   {
-    question: "Vocês fazem entregas?",
+    question: "Como faço para encomendar?",
     answer:
-      "Sim! Fazemos entregas em toda a região. O valor do frete varia de acordo com a distância e o tamanho do pedido. Entre em contato pelo WhatsApp para calcular o valor da entrega.",
+      "É simples! Você pode entrar em contato pelo botão do WhatsApp, ou pelo direct do Instagram. Vou precisar de algumas informações básicas sobre o evento e o pedido.",
   },
   {
-    question: "Quais formas de pagamento são aceitas?",
+    question: "Você realiza entregas?",
     answer:
-      "Aceitamos pagamento via PIX, transferência bancária, cartão de crédito e débito. Para pedidos grandes, trabalhamos com sinal de 50% na confirmação do pedido.",
+      "Não realizo entrega, mas o cliente poderá solicitar um Uber para fazer a retirada.",
   },
   {
-    question: "Fazem bolos sem glúten ou sem lactose?",
+    question: "Posso personalizar o design do bolo?",
     answer:
-      "Sim! Trabalhamos com opções especiais para dietas restritivas, incluindo bolos sem glúten, sem lactose e veganos. Consulte-nos sobre disponibilidade e valores.",
+      "Sim! Trabalho com personalização para que cada detalhe combine perfeitamente com o tema da sua festa. Você pode me enviar inspirações ou descrever sua ideia, e juntos criaremos algo único.",
   },
   {
-    question: "Qual é o pedido mínimo?",
+    question: "Seus bolos e doces atendem restrições alimentares?",
     answer:
-      "Não temos pedido mínimo! Você pode encomendar desde um único cupcake até bolos de múltiplos andares para grandes eventos.",
-  },
-  {
-    question: "Como funciona a personalização dos bolos?",
-    answer:
-      "Após confirmar seu pedido, agendamos uma conversa para entender sua visão. Você pode enviar referências de fotos, cores e temas. Criamos um design exclusivo baseado nas suas preferências.",
+      "Meus bolos e doces não são indicados para pessoas com intolerâncias ou alergias alimentares, pois podem conter ingredientes como glúten, lactose, ovos e oleaginosas. Meu foco é oferecer produtos tradicionais que garantam sabor e qualidade",
   },
 ]
 
