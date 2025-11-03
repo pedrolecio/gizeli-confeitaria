@@ -22,7 +22,7 @@ const galleryItems = [
     image: "/images/brownies.jpg",
   },
   {
-    title: "Copinho de Chocolate",
+    title: "Copinhos de Chocolate",
     image: "/images/copinho.jpg",
   },
 ]
