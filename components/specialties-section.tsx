@@ -6,7 +6,7 @@ const galleryItems = [
     image: "/images/bolo-aniversario.jpg",
   },
   {
-    title: "Doces Tradicionais",
+    title: "Doces Finos",
     image: "/images/brigadeiros-gourmet.jpg",
   },
   {
@@ -14,7 +14,7 @@ const galleryItems = [
     image: "/images/cupcakes.jpg",
   },
   {
-    title: "Doces Finos",
+    title: "Doces Tradicionais",
     image: "/images/brigadeiros-decorados.jpg",
   },
   {
