@@ -12,7 +12,7 @@ export function ContactButton() {
         className="bg-primary hover:bg-primary/90 text-primary-foreground shadow-lg hover:shadow-xl transition-all duration-300 gap-2"
       >
         <MessageCircle className="w-5 h-5" />
-        Entre em Contato
+        Fazer meu pedido
       </Button>
     </div>
   )
